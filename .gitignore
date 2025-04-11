@@ -1,0 +1,5 @@
+secrets.txt 
+api.txt
+
+*.log
+*.db
